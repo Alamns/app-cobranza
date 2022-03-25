@@ -29,7 +29,7 @@
     event.preventDefault();
     datos =  $( this ).serialize();
     $.ajax({
-        url: "./guardar.php",
+        url: "https://alamns.github.io/app-cobranza/guardar.php",
         type: "POST",
         data: datos,
         success: function(result){
