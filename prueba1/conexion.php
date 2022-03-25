@@ -1,8 +1,8 @@
 <?php
-    $user = "alan5";
-    $pass = "1234";
-    $host = "localhost";
-    $datab = "prueba1";
+    $user = "uftffoiaijimn9wf";
+    $pass = "qnAdXFUQhVxvXmXRCyJy";
+    $host = "biuymdmgjfmio6af00a0-mysql.services.clever-cloud.com";
+    $datab = "biuymdmgjfmio6af00a0";
 
     $conex = mysqli_connect($host, $user, $pass);
     
